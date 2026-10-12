@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**IbrahimBohassan/IbrahimBohassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network and Communication Engineer and Software Developer based in Saudi Arabia.
 
-Here are some ideas to get you started:
+I enjoy building practical software, exploring how systems work under the hood, and solving problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+**Languages:** C, C++, Java, Python, JavaScript
+
+**Frameworks & Tools:** React Native, Electron, Git
+
+**Interests:** Systems Programming, Desktop Applications, Operating Systems, Software Engineering, Network & Communication Engineering, Cybersecurity
+
+## Background
+
+- 🎓 B.Sc. in Computer Networks and Communication Engineering — King Faisal University
+- 🚀 Systems Engineering and Programming Bootcamp — Tuwaiq Academy
