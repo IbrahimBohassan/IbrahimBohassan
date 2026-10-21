@@ -25,7 +25,6 @@ I'm a Computer Network & Communication Engineering graduate from King Faisal Uni
 [![Tech stack](https://skillicons.dev/icons?i=c,cpp,py,js,java,electron,react,git,github,gcp,azure,arduino)](https://skillicons.dev)
 
 **Languages:** C, C++, Python, JavaScript, Java
-
 **Frameworks and tools:** Electron, React Native, Git and GitHub, Arduino, Cisco Packet Tracer, Google Cloud, Microsoft Azure
 
 ## 📜 Certifications
