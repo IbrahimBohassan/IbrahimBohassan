@@ -45,3 +45,4 @@ I'm a Computer Network & Communication Engineering graduate from King Faisal Uni
 I'm open to opportunities in network, systems, cloud, and security engineering.
 
 [![Email](https://img.shields.io/badge/Email-ibrahimbohassan135%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:ibrahimbohassan135@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-%2B966%2059%20334%206654-2E7D32)
